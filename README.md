@@ -237,7 +237,7 @@ Second output file `distinct_words_appearance_counts.txt`:
 ```
 I: *
 know: *
-the: ***
+the: *******
 man: ***
 is: *
 a: *
